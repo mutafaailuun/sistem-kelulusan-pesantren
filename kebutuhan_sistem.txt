@@ -1,0 +1,5 @@
+KEBUTUHAN SISTEM:
+
+1. PHP Version 7.2 keatas
+2. Username (admin) & Password (admin123)
+3. Import template siswa menggunakan excel versi 2003-2007 dengan format file (.xls)
